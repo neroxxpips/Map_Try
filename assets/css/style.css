@@ -1,0 +1,47 @@
+body {
+	background-color: darkblue;
+	font-family: 'Mogra', cursive;
+	color: white;
+	margin: 0;	
+	padding: 0px 20px;
+}
+.container {
+  height: auto;
+  width: 750px;
+  margin: 0px auto;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+table {
+	width: 100%;
+}
+th {
+	padding-left: 0px;
+	width: auto;
+}
+td {
+	color: red;
+	padding-right: 10px;
+}
+.search {
+	margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+
+}
+img {
+	height: 500px;
+	width: 900px;
+
+}
+
+
+.image{
+
+}
+h1 {
+	color: white;
+}
